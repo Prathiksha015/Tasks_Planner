@@ -8,3 +8,4 @@ Guide to use the application:
 5.Click on delete to delete the task.
 6. Click on search and enter the task name keyword to search for a specific task.
 7.Click on sign out to log out from your account.
+
