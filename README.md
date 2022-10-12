@@ -9,11 +9,11 @@ Guide to use the application:
 
 3. Click on details to view task details.
 
-4.Click on edit to make changes.
+  4.Click on edit to make changes.
 
-5.Click on delete to delete the task.
+  5.Click on delete to delete the task.
 
 6. Click on search and enter the task name keyword to search for a specific task.
 
-7.Click on sign out to log out from your account.
+  7.Click on sign out to log out from your account.
 
